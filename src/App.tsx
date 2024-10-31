@@ -1,4 +1,3 @@
-import React from 'react'
 import GalleryApp from './components/GalleryApp/GalleryApp'
 
 const App = () => {
